@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Semestre Actual/Nueva carpeta/Prueba_3/build/debug/CMakeFiles/Prueba_3.dir
+C:/Users/USER/Desktop/Semestre Actual/Nueva carpeta/Prueba_3/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Semestre Actual/Nueva carpeta/Prueba_3/build/debug/CMakeFiles/rebuild_cache.dir
