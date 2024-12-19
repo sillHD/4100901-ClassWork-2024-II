@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\main.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\main.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\main.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\gpio.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\gpio.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\gpio.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\gpio.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\systick.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\systick.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\systick.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\systick.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\uart.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\uart.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\uart.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\uart.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\syscall.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\syscall.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\syscall.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\sysmem.c.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\sysmem.c",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Src\\sysmem.c",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ismae/Desktop/examen/4100901-Mid_Term_Exam-24_2 -g -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Startup\\startup_stm32l476rgtx.s.obj -c C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Startup\\startup_stm32l476rgtx.s",
+  "file": "C:\\Users\\ismae\\Desktop\\examen\\4100901-Mid_Term_Exam-24_2\\Startup\\startup_stm32l476rgtx.s",
+  "output": "CMakeFiles\\4100901-Mid_Term_Exam-24_2.dir\\Startup\\startup_stm32l476rgtx.s.obj"
+}
+]
