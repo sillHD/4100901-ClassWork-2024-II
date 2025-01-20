@@ -1,0 +1,3 @@
+C:/Users/ismae/Desktop/Semestre actual/Estructuras Computacionales/sistema_de_control_de_acceso/build/debug/CMakeFiles/sistema_de_control_de_acceso.dir
+C:/Users/ismae/Desktop/Semestre actual/Estructuras Computacionales/sistema_de_control_de_acceso/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/ismae/Desktop/Semestre actual/Estructuras Computacionales/sistema_de_control_de_acceso/build/debug/CMakeFiles/rebuild_cache.dir
